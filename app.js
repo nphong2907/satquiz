@@ -295,7 +295,7 @@
   // Load fixed bank from bundled JSON then from localStorage (append)
   async function init(){
     try{
-      const res = await fetch('exam.json', {cache:'no-store'});
+      const res = await fetch('./satquiz/exam.json', {cache:'no-store'});
       const base = res.ok ? (await res.json()) : [];
       bank = ensureCategory(base.map(normalizeRow).filter(Boolean));
     }catch{ bank = []; }
@@ -326,4 +326,5 @@ function showQuestion() {
     btn.querySelector("span").textContent = currentQuestion.options[idx];
   });
 }
+
 
