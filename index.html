@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Quiz Browser – Categories</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="brand">
+        <div class="logo" aria-hidden="true"></div>
+        <h1>Quiz luyện tập theo chủ đề</h1>
+      </div>
+      <div class="controls">
+        <button id="homeBtn" class="btn ghost small" title="Về màn danh mục">Trang chủ</button>
+        <label class="btn file-label small" title="(Tuỳ chọn) Import thêm CSV/JSON">
+          <input id="fileInput" type="file" accept=".csv,.json,text/csv,application/json" />
+          + Import
+        </label>
+        <button id="restartBtn" class="btn primary small" title="Bắt đầu / Làm lại" disabled>Bắt đầu</button>
+      </div>
+    </header>
+
+    <!-- CATEGORY SCREEN -->
+    <section id="categoryScreen" class="card" aria-live="polite">
+      <div class="card-body">
+        <h2>Chọn danh mục để luyện tập</h2>
+        <p class="muted">Nguồn câu hỏi đã <strong>cố định</strong> trong ứng dụng. Bạn có thể import thêm nếu muốn.</p>
+        <div id="categoryList" class="category-grid" role="list"></div>
+      </div>
+    </section>
+
+    <!-- QUIZ SCREEN -->
+    <section id="quizCard" class="card hidden" aria-live="polite">
+      <div class="card-body">
+        <div class="topline">
+          <div id="crumbs" class="crumbs"></div>
+          <div id="qIndex" class="q-index">1/1</div>
+        </div>
+
+        <div id="contextBox" class="context"></div>
+        <div id="promptBox" class="prompt"></div>
+
+        <div class="answers" id="answers"></div>
+
+        <div id="feedback" class="feedback" role="status" aria-live="assertive"></div>
+
+        <div class="navrow">
+          <button id="exitBtn" class="btn ghost">⇤ Thoát</button>
+          <div class="spacer"></div>
+          <button id="prevBtn" class="btn nav" disabled>← Câu trước</button>
+          <button id="nextBtn" class="btn nav">Câu sau →</button>
+        </div>
+      </div>
+
+      <div class="progress-wrap">
+        <div class="progress-bar" aria-label="Tiến độ">
+          <div id="pFill" class="progress-fill"></div>
+        </div>
+        <div id="pText" class="progress-text">0/0</div>
+      </div>
+    </section>
+
+    <!-- RESULT -->
+    <section id="resultCard" class="card result" aria-live="polite">
+      <div class="card-body">
+        <h2>Kết quả</h2>
+        <div class="stat-grid">
+          <div class="stat"><p>Đúng</p><h3 id="statCorrect">0</h3></div>
+          <div class="stat"><p>Sai</p><h3 id="statWrong">0</h3></div>
+          <div class="stat"><p>Chính xác</p><h3 id="statAccuracy">0%</h3></div>
+        </div>
+        <div class="muted">Chọn danh mục khác ở <span class="kbd">Trang chủ</span> hoặc <span class="kbd">Bắt đầu</span> để làm lại.</div>
+      </div>
+    </section>
+
+    <footer>
+      <div>Phím tắt: <span class="kbd">A</span><span class="kbd">B</span><span class="kbd">C</span><span class="kbd">D</span> chọn đáp án • <span class="kbd">←</span><span class="kbd">→</span> chuyển câu • <span class="kbd">Esc</span> thoát</div>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
