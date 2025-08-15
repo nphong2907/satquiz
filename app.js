@@ -107,7 +107,7 @@
     renderQuestion();
   }
 
-  function renderQuestion(){
+ function renderQuestion(){
   if(idx >= currentSet.length){ return showResult(); }
   const q = currentSet[idx];
 
@@ -149,6 +149,7 @@
   prevBtn.disabled = idx<=0;
   nextBtn.disabled = idx >= currentSet.length-1;
 }
+
 
   function normalizeCorrect(correct){
     if(typeof correct === 'number') return clamp(correct,0,3);
@@ -257,42 +258,25 @@
   }
 
   function normalizeRow(obj){
-  if(!obj) return null;
-
-  // Hỗ trợ 2 format:
-  // A) Mới: { category, context, prompt, options:[...], correct/answer }
-  // B) Cũ:  { question, A,B,C,D, correct }
-  const category = obj.category || obj.Category;
-
-  // context/prompt (format mới)
-  const context = String(obj.context || '').trim();
-  const prompt  = String(obj.prompt  || '').trim();
-
-  // question (format cũ)
-  let question = String(obj.question || obj.Question || '').trim();
-
-  // Nếu không có 'question' nhưng có context/prompt, ghép lại để code cũ vẫn chạy được
-  if (!question && (context || prompt)) {
-    question = [context, prompt].filter(Boolean).join(' ');
+    if(!obj) return null;
+    const q = String(obj.question || obj.Question || '').trim();
+    const A = obj.A ?? (obj.options?.[0]) ?? obj.a;
+    const B = obj.B ?? (obj.options?.[1]) ?? obj.b;
+    const C = obj.C ?? (obj.options?.[2]) ?? obj.c;
+    const D = obj.D ?? (obj.options?.[3]) ?? obj.d;
+    let correct = obj.correct ?? obj.Correct ?? obj.answer ?? obj.Answer;
+    const options = [A,B,C,D].map(v => v === undefined ? '' : String(v));
+    if(!q || options.filter(Boolean).length < 2) return null;
+    return { question: q, options, correct, category: obj.category || obj.Category };
   }
 
-  // options
-  const optsFromArray = Array.isArray(obj.options) ? obj.options : null;
-  const A = obj.A ?? (optsFromArray?.[0]) ?? obj.a;
-  const B = obj.B ?? (optsFromArray?.[1]) ?? obj.b;
-  const C = obj.C ?? (optsFromArray?.[2]) ?? obj.c;
-  const D = obj.D ?? (optsFromArray?.[3]) ?? obj.d;
-  const options = optsFromArray ? optsFromArray.map(v => String(v)) : [A,B,C,D].map(v => v === undefined ? '' : String(v));
-
-  // đáp án: chấp nhận correct hoặc answer
-  let correct = obj.correct ?? obj.Correct ?? obj.answer ?? obj.Answer;
-
-  // Validate: cần tối thiểu 2 option và có 'question' (hoặc context/prompt đã ghép)
-  if(!question || options.filter(Boolean).length < 2) return null;
-
-  // Trả về đủ field (giữ thêm context/prompt để render đẹp)
-  return { question, context, prompt, options, correct, category };
-}
+  function loadFromJSON(text){
+    try{
+      const parsed = JSON.parse(text);
+      if(Array.isArray(parsed)) return parsed.map(normalizeRow).filter(Boolean);
+    }catch(e){ alert('Lỗi JSON: ' + e.message); }
+    return [];
+  }
 
   // Navigation
   prevBtn.addEventListener('click', ()=>{ idx = Math.max(0, idx-1); renderQuestion(); });
@@ -321,7 +305,7 @@
   // Load fixed bank from bundled JSON then from localStorage (append)
   async function init(){
     try{
-      const res = await fetch('./satquiz/exam.json', {cache:'no-store'});
+      const res = await fetch('exam.json', {cache:'no-store'});
       const base = res.ok ? (await res.json()) : [];
       bank = ensureCategory(base.map(normalizeRow).filter(Boolean));
     }catch{ bank = []; }
@@ -352,6 +336,3 @@ function showQuestion() {
     btn.querySelector("span").textContent = currentQuestion.options[idx];
   });
 }
-
-
-
