@@ -108,38 +108,47 @@
   }
 
   function renderQuestion(){
-    if(idx >= currentSet.length){ return showResult(); }
-    const q = currentSet[idx];
+  if(idx >= currentSet.length){ return showResult(); }
+  const q = currentSet[idx];
+
+  // Ưu tiên dữ liệu tách: context/prompt (đúng với exam.json của bạn)
+  if (q.context || q.prompt) {
+    contextBox.textContent = (q.context || '').trim();
+    promptBox.textContent  = (q.prompt  || 'Which choice completes the text with the most logical and precise word or phrase?').trim();
+  } else {
+    // Fallback cho dữ liệu kiểu cũ: dồn trong 1 chuỗi question
     const {context, prompt} = splitQuestionText(q.question || '');
     contextBox.textContent = context;
-    promptBox.textContent = prompt;
-
-    answersWrap.innerHTML = '';
-    const opts = q.options || [q.A, q.B, q.C, q.D].filter(v=>v!==undefined);
-    opts.slice(0,4).forEach((opt, i) => {
-      const btn = document.createElement('button');
-      btn.className = 'answer';
-      btn.setAttribute('data-index', i);
-      btn.setAttribute('aria-label', `Đáp án ${letterFromIndex(i)}`);
-      btn.innerHTML = `<span class="pill">${letterFromIndex(i)}</span> <span>${escapeHTML(String(opt))}</span>`;
-      btn.addEventListener('click', () => handleAnswer(i, btn));
-      answersWrap.appendChild(btn);
-    });
-
-    // restore if answered before
-    const prev = answered.get(idx);
-    if(prev){
-      const btn = answersWrap.querySelector(`[data-index="${prev.choice}"]`);
-      if(btn){
-        btn.classList.add(prev.correct? 'correct':'wrong');
-        [...answersWrap.querySelectorAll('.answer')].forEach(b=>b.disabled=true);
-      }
-    }
-
-    setProgress();
-    prevBtn.disabled = idx<=0;
-    nextBtn.disabled = idx >= currentSet.length-1;
+    promptBox.textContent  = prompt;
   }
+
+  // Render đáp án
+  answersWrap.innerHTML = '';
+  const opts = q.options || [q.A, q.B, q.C, q.D].filter(v=>v!==undefined);
+  opts.slice(0,4).forEach((opt, i) => {
+    const btn = document.createElement('button');
+    btn.className = 'answer';
+    btn.setAttribute('data-index', i);
+    btn.setAttribute('aria-label', `Đáp án ${letterFromIndex(i)}`);
+    btn.innerHTML = `<span class="pill">${letterFromIndex(i)}</span> <span>${escapeHTML(String(opt))}</span>`;
+    btn.addEventListener('click', () => handleAnswer(i, btn));
+    answersWrap.appendChild(btn);
+  });
+
+  // restore nếu đã chọn
+  const prev = answered.get(idx);
+  if(prev){
+    const btn = answersWrap.querySelector(`[data-index="${prev.choice}"]`);
+    if(btn){
+      btn.classList.add(prev.correct? 'correct':'wrong');
+      [...answersWrap.querySelectorAll('.answer')].forEach(b=>b.disabled=true);
+    }
+  }
+
+  setProgress();
+  prevBtn.disabled = idx<=0;
+  nextBtn.disabled = idx >= currentSet.length-1;
+}
 
   function normalizeCorrect(correct){
     if(typeof correct === 'number') return clamp(correct,0,3);
@@ -248,25 +257,42 @@
   }
 
   function normalizeRow(obj){
-    if(!obj) return null;
-    const q = String(obj.question || obj.Question || '').trim();
-    const A = obj.A ?? (obj.options?.[0]) ?? obj.a;
-    const B = obj.B ?? (obj.options?.[1]) ?? obj.b;
-    const C = obj.C ?? (obj.options?.[2]) ?? obj.c;
-    const D = obj.D ?? (obj.options?.[3]) ?? obj.d;
-    let correct = obj.correct ?? obj.Correct ?? obj.answer ?? obj.Answer;
-    const options = [A,B,C,D].map(v => v === undefined ? '' : String(v));
-    if(!q || options.filter(Boolean).length < 2) return null;
-    return { question: q, options, correct, category: obj.category || obj.Category };
+  if(!obj) return null;
+
+  // Hỗ trợ 2 format:
+  // A) Mới: { category, context, prompt, options:[...], correct/answer }
+  // B) Cũ:  { question, A,B,C,D, correct }
+  const category = obj.category || obj.Category;
+
+  // context/prompt (format mới)
+  const context = String(obj.context || '').trim();
+  const prompt  = String(obj.prompt  || '').trim();
+
+  // question (format cũ)
+  let question = String(obj.question || obj.Question || '').trim();
+
+  // Nếu không có 'question' nhưng có context/prompt, ghép lại để code cũ vẫn chạy được
+  if (!question && (context || prompt)) {
+    question = [context, prompt].filter(Boolean).join(' ');
   }
 
-  function loadFromJSON(text){
-    try{
-      const parsed = JSON.parse(text);
-      if(Array.isArray(parsed)) return parsed.map(normalizeRow).filter(Boolean);
-    }catch(e){ alert('Lỗi JSON: ' + e.message); }
-    return [];
-  }
+  // options
+  const optsFromArray = Array.isArray(obj.options) ? obj.options : null;
+  const A = obj.A ?? (optsFromArray?.[0]) ?? obj.a;
+  const B = obj.B ?? (optsFromArray?.[1]) ?? obj.b;
+  const C = obj.C ?? (optsFromArray?.[2]) ?? obj.c;
+  const D = obj.D ?? (optsFromArray?.[3]) ?? obj.d;
+  const options = optsFromArray ? optsFromArray.map(v => String(v)) : [A,B,C,D].map(v => v === undefined ? '' : String(v));
+
+  // đáp án: chấp nhận correct hoặc answer
+  let correct = obj.correct ?? obj.Correct ?? obj.answer ?? obj.Answer;
+
+  // Validate: cần tối thiểu 2 option và có 'question' (hoặc context/prompt đã ghép)
+  if(!question || options.filter(Boolean).length < 2) return null;
+
+  // Trả về đủ field (giữ thêm context/prompt để render đẹp)
+  return { question, context, prompt, options, correct, category };
+}
 
   // Navigation
   prevBtn.addEventListener('click', ()=>{ idx = Math.max(0, idx-1); renderQuestion(); });
@@ -326,5 +352,6 @@ function showQuestion() {
     btn.querySelector("span").textContent = currentQuestion.options[idx];
   });
 }
+
 
 
