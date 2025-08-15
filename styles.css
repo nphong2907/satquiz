@@ -178,3 +178,48 @@ input[type="file"]{display:none}
   60%{transform:translateX(-2px)}
   80%{transform:translateX(2px)}
 }
+
+
+/* Modal overlay (ẩn mặc định) */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  display: none;              /* Mặc định không hiện */
+  align-items: center;
+  justify-content: center;
+  background: rgba(0,0,0,.6);
+  backdrop-filter: blur(4px);
+  z-index: 1000;
+}
+.modal-overlay.hidden { display: none; pointer-events: none; }
+
+/* Khi mở modal */
+.modal-overlay.show { display: flex; }
+
+.modal {
+  background: rgba(20,25,40,.95);
+  color: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  max-width: 360px;
+  width: 92%;
+  box-shadow: 0 10px 30px rgba(0,0,0,.5);
+}
+.modal.hidden { display: none; }
+.modal.show { display: block; }
+
+.modal-close {
+  position: absolute;
+  top: 8px; right: 10px;
+  background: transparent;
+  border: 0; font-size: 20px; cursor: pointer;
+}
+
+/* Chỉ để chắc chắn có con trỏ tay */
+button.category.btn { cursor: pointer; }
+.modal-buttons{ 
+  display:flex; 
+  flex-direction:column; 
+  gap:14px; /* tăng từ 8px lên 14px */
+  margin-top:12px; 
+}
