@@ -223,3 +223,166 @@ button.category.btn { cursor: pointer; }
   gap:14px; /* tăng từ 8px lên 14px */
   margin-top:12px; 
 }
+/* ==== User modal ==== */
+.modal-compact { max-width: 420px; }
+.modal-label { display:block; text-align:left; margin:6px 0; color:var(--muted); font-size:14px; }
+.modal-input{
+  width:100%; padding:10px 12px; border-radius:10px;
+  border:1px solid var(--border); background:#0f1c33; color:var(--text); outline:none;
+}
+.modal-input:focus{ border-color:var(--accent); box-shadow:0 0 0 2px rgba(90,162,255,.25); }
+.modal-buttons.row{ flex-direction:row; gap:10px; justify-content:flex-end; margin-top:12px; }
+/* Gate modal error */
+.modal-error{
+  margin-top:8px; color: var(--bad); font-size: 13px;
+}
+/* === Category progress styles === */
+.category.btn {
+  position: relative;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+/* viền mặc định đã có --border; các trạng thái dưới sẽ override */
+.category.btn.cat-inprogress {
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 1px rgba(59,130,246,.45);
+}
+.category.btn.cat-done-good {
+  border-color: #22c55e;
+  box-shadow: 0 0 0 1px rgba(34,197,94,.55), 0 0 10px rgba(34,197,94,.18);
+}
+.category.btn.cat-done-bad {
+  border-color: #ef4444;
+  box-shadow: 0 0 0 1px rgba(239,68,68,.55), 0 0 10px rgba(239,68,68,.20);
+}
+
+/* bố cục nội dung trên nút */
+.cat-name { font-weight: 700; text-align: left; }
+.cat-meta { display: flex; align-items: center; gap: 8px; color: var(--muted); }
+.cat-meta .count,
+.cat-meta .meta { font-size: 12px; opacity: .9; }
+/* === Toàn bộ font chữ Roboto === */
+body, button, input, select, textarea {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+  font-weight: 400;
+  color: #fff; /* hoặc màu chữ mặc định bạn muốn */
+}
+
+.category.btn .cat-name,
+.category.btn .cat-meta {
+  font-size: 14px;
+  font-weight: 400;
+}
+.category.btn .cat-meta .meta {
+  font-size: 14px;
+}
+.category.btn {
+  display: flex;
+min-width: fit-content;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--border-color, #3b82f6);
+  background-color: transparent;
+  gap: 16px;                      /* khoảng cách giữa tên và tiến trình */
+  white-space: normal;            /* cho phép xuống dòng nếu cần */
+}
+
+.cat-name {
+  white-space: normal;            /* cho phép tên dài xuống dòng */
+}
+
+.cat-meta {
+  display: flex;
+  gap: 8px;
+}
+/* Đừng làm mờ khi đã chọn xong */
+.answer:disabled { 
+  opacity: 1;          /* <- bỏ hiệu ứng mờ */
+  cursor: default;
+}
+/* đảm bảo cả đúng/sai đều rõ nét */
+.answer.correct:disabled,
+.answer.wrong:disabled {
+  opacity: 1;
+}
+/* === Search === */
+.search-bar{ display:flex; gap:8px; margin:10px 0 6px; }
+.search-bar input{
+  flex:1; min-width:200px; padding:10px 12px; border-radius:10px;
+  border:1px solid var(--border); background:#0f1c33; color:var(--text);
+}
+.search-results{ margin-top:6px; background:var(--card-2); border:1px solid var(--border); border-radius:12px; padding:10px; }
+.search-head{ display:flex; align-items:center; gap:8px; justify-content:space-between; margin-bottom:8px; }
+.search-list{ display:flex; flex-direction:column; gap:8px; max-height:340px; overflow:auto; }
+.search-item{
+  display:flex; gap:10px; align-items:flex-start; padding:8px 10px; border:1px solid var(--border);
+  border-radius:10px; background:#0f1c33;
+}
+.search-item .s-cat{ font-size:12px; color:var(--muted); }
+.search-item .s-text{ font-size:14px; }
+.search-item .s-actions{ margin-left:auto; display:flex; gap:6px; }
+.search-item mark {
+  background: #3e3bf6; /* vàng sáng hơn */
+  color: #ffffff;                        /* chữ đen cho dễ đọc */
+  padding: 0 2px;
+  border-radius: 3px;
+}
+.hidden{ display:none !important; }
+/* Close button floating inside quiz card */
+.close-inline{
+  position:absolute;
+  top:12px;
+  right:16px;
+  z-index: 5;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 6px 10px;
+}
+#quizCard { position: relative; } /* để nút bám theo card */
+/* Layout helpers */
+.row-between{ display:flex; align-items:center; justify-content:space-between; gap:12px; }
+
+/* Search container collapsed by default */
+.search-container.hidden{ display:none; }  /* ẩn hoàn toàn khi chưa bật */
+.search-container{ margin-top:10px; }
+
+/* (đã có) Search styles – giữ nguyên như bạn đang dùng */
+#searchInput {
+  border: 1px solid #3b82f6; /* xanh dương */
+  outline: none;
+}
+
+#searchInput:focus {
+  border-color: #42a5f5; /* xanh sáng hơn khi focus */
+  box-shadow: 0 0 5px rgba(66, 165, 245, 0.6);
+}
+/* Giải thích đáp án */
+.explain{
+  margin-top: 12px;
+  padding: 12px 14px;
+  border-radius: 10px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid var(--border, rgba(255,255,255,.12));
+  line-height: 1.5;
+  font-size: 14px;
+}
+.explain.ok{ border-color: rgba(0,200,120,.55); background: rgba(0,200,120,.08); }
+.explain.bad{ border-color: rgba(255,70,70,.6);  background: rgba(255,70,70,.08); }
+.explain .title{ font-weight: 600; margin-bottom: 6px; }
+.explain .right{ margin-top: 6px; opacity: .95; }
+.explain .muted{ opacity: .8; }
+.explain { white-space: pre-line; }
+/* Ẩn hoàn toàn khi trống/ẩn để không còn viền đỏ */
+.explain.hidden,
+.explain:empty{
+  display: none;
+  border: 0;
+  padding: 0;
+  margin-top: 0;
+}

@@ -3,707 +3,1818 @@
     "category": "Word in Context - Part 1",
     "context": "The Istiqlal Mosque in Jakarta, Indonesia, is a massive mosque that can accommodate approximately 200,000 people at once, making it an __________ sight to behold.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["idealized", "intricate", "imposing", "illusory"],
-    "answer": "imposing"
+    "options": [
+      "idealized",
+      "intricate",
+      "imposing",
+      "illusory"
+    ],
+    "answer": "imposing",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: lý tưởng hoá; tô hồng\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: romanticized, perfected, idealistic",
+      "B": "Nghĩa tiếng Việt: rắc rối; nhiều chi tiết\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: complex, elaborate, complicated",
+      "C": "Nghĩa tiếng Việt: hùng vĩ; ấn tượng\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: grand, majestic, awe-inspiring",
+      "D": "Nghĩa tiếng Việt: hư ảo; đánh lừa\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: deceptive, unreal, specious"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The Lascaux Cave paintings—detailed paintings of animals found in what is now France and dating from around 17,000 years ago—are sometimes said to be emotionally powerful despite their age, but in fact the paintings are __________ precisely because of their age. It is the link of shared humanity with the artists across so many centuries that gives the Lascaux Cave paintings such resonance.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["ingenious", "meticulous", "pristine", "affecting"],
-    "answer": "affecting"
+    "options": [
+      "ingenious",
+      "meticulous",
+      "pristine",
+      "affecting"
+    ],
+    "answer": "affecting",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: khéo léo; thông minh\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: clever, resourceful, inventive",
+      "B": "Nghĩa tiếng Việt: tỉ mỉ; cẩn trọng\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: scrupulous, painstaking, thorough",
+      "C": "Nghĩa tiếng Việt: nguyên sơ; tinh khôi\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: untouched, immaculate, unspoiled",
+      "D": "Nghĩa tiếng Việt: gây xúc động\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: moving, touching, poignant"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Some robots such as Surena (developed in 2008) and COMAN (developed in 2012) feature humanoid characteristics like bipedal locomotion so that people will find it easier to interact with them. While these features can help to __________ feelings of comfort in people, a robot that looks too human can fall into the \"uncanny valley\" meaning that its appearance unintentionally unsettles those who encounter it.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["engender", "constrict", "counterbalance", "repudiate"],
-    "answer": "engender"
+    "options": [
+      "engender",
+      "constrict",
+      "counterbalance",
+      "repudiate"
+    ],
+    "answer": "engender",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: gây ra; tạo ra\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: produce, generate, foster",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “constrict”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “counterbalance”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “repudiate”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Text corpora such as the International Corpus of English are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding how __________ a word is in spoken and written English. For instance, one might have a guess about the incidence of the word \"first,\" but only an analysis of a corpus can prove that \"first\" is the third most commonly used adjective.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["pervasive", "credible", "assertive", "profound"],
-    "answer": "pervasive"
+    "options": [
+      "pervasive",
+      "credible",
+      "assertive",
+      "profound"
+    ],
+    "answer": "pervasive",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: lan toả; phổ biến\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: widespread, ubiquitous, prevalent",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “credible”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: quyết đoán; mạnh mẽ\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: self-assured, confident, forceful",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “profound”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Few new parents __________ that their baby will someday become an astronaut, yet if Jerry L. Ross's parents had made this prediction when he was born in 1948, they would have been correct, for NASA selected him for the job in 1980.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["disagree", "ignore", "require", "anticipate"],
-    "answer": "anticipate"
+    "options": [
+      "disagree",
+      "ignore",
+      "require",
+      "anticipate"
+    ],
+    "answer": "anticipate",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “disagree”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “ignore”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “require”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: dự đoán; mong đợi\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: expect, foresee, predict"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "[The Rat] had patiently hunted through the wood for an hour or more, when at last to his joy he heard a little answering cry. Guiding himself by the sound, he made his way through the gathering darkness to the foot of an old beech tree.",
     "prompt": "As used in the text, what does the word \"guiding\" most nearly mean?",
-    "options": ["Withdrawing", "Presenting", "Instructing", "Steering"],
-    "answer": "Steering"
+    "options": [
+      "Withdrawing",
+      "Presenting",
+      "Instructing",
+      "Steering"
+    ],
+    "answer": "Steering",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: rút lui; rút về\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: retreating, pulling back, taking out",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “Presenting”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “Instructing”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “Steering”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Alfred Nobel intended for the Nobel Prize to be an award honoring those who have contributed \"the greatest benefit to mankind.\" Indeed, the work of Richard Laurence Millington Synge represented a significant __________ the field of chemistry, and in 1952 he was among those awarded the Nobel Prize in Chemistry for \"their invention of partition chromatography.\"",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["controversy in", "exposure to", "dependence on", "advancement in"],
-    "answer": "advancement in"
+    "options": [
+      "controversy in",
+      "exposure to",
+      "dependence on",
+      "advancement in"
+    ],
+    "answer": "advancement in",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “controversy in”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “exposure to”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “dependence on”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Nghĩa tiếng Việt: sự tiến bộ trong\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: progress in, development in, improvement in"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The arrival of humans to the Americas is thought to have __________ a sudden decrease in biodiversity throughout the continents. Although the extinction of species like the toxodon was likely the result of a combination of factors, from decreasing food sources to habitat destruction, most of these factors can be directly tied to the presence of humans.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["followed", "prolonged", "counteracted", "triggered"],
-    "answer": "triggered"
+    "options": [
+      "followed",
+      "prolonged",
+      "counteracted",
+      "triggered"
+    ],
+    "answer": "triggered",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “followed”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “prolonged”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “counteracted”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Nghĩa tiếng Việt: kích hoạt; gây ra\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: sparked, caused, provoked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Some robots such as Surena (developed in 2008) and COMAN (developed in 2012) are designed to resemble humans so that people will find it easier to interact with them. To this end, certain features such as the ability to respond to voice commands can help to create the comforting semblance of humanity, but a robot that appears too similar to humans can make people feel more unsettled than __________.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["soothed", "indifferent", "revolted", "vindicated"],
-    "answer": "soothed"
+    "options": [
+      "soothed",
+      "indifferent",
+      "revolted",
+      "vindicated"
+    ],
+    "answer": "soothed",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: xoa dịu; trấn an\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: calmed, comforted, reassured",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “indifferent”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “revolted”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Nghĩa tiếng Việt: được minh oan; chứng thực\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: justified, exonerated, upheld"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Some features, such as the mihrab (or niche), are present in nearly every mosque. But mosques often reflect multiple architectural styles, resulting in a unique __________ of those influences, as in the case of the Sheikh Zayed Mosque, which combines elements from the Persian, Mughal, and Moorish styles.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["fusion", "dismissal", "critique", "simplification"],
-    "answer": "fusion"
+    "options": [
+      "fusion",
+      "dismissal",
+      "critique",
+      "simplification"
+    ],
+    "answer": "fusion",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “fusion”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “dismissal”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “critique”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “simplification”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The little fern-leaf, bending\n Upon the brink, its green reflection greets,\n And kisses soft the shadow that it meets\n With touch so fine,\n The border line\n The keenest vision can't define;\n So perfect is the blending.",
     "prompt": "As used in the text, what does the word \"define\" most nearly mean?",
-    "options": ["explain", "state", "detect", "reduce"],
-    "answer": "detect"
+    "options": [
+      "explain",
+      "state",
+      "detect",
+      "reduce"
+    ],
+    "answer": "detect",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “explain”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “state”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: phát hiện; nhận ra\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: discern, spot, recognize",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “reduce”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The little conductor stood on tiptoe in an effort to keep one hand on the signal rope, craning his neck in a vain and dissatisfied endeavor to pierce the miasma of the fog. The motorman chafed in his box, thinking of the drudging lot of the laboring man. He registered discontent.",
     "prompt": "As used in the text, what does the word \"registered\" most nearly mean?",
-    "options": ["enrolled", "valued", "disregarded", "displayed"],
-    "answer": "displayed"
+    "options": [
+      "enrolled",
+      "valued",
+      "disregarded",
+      "displayed"
+    ],
+    "answer": "displayed",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “enrolled”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Nghĩa tiếng Việt: được coi trọng\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: esteemed, appreciated, prized",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “disregarded”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Nghĩa tiếng Việt: trưng bày; thể hiện\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: showed, exhibited, revealed"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Although fewer companies trade their stocks on the Tehran Stock Exchange in Tehran, Iran, than on the stock exchanges in London, Mumbai, or Tokyo, the Tehran Stock Exchange has the advantage of focusing on local companies and thus reflecting economic circumstances that are __________ Iran. This sensitivity to unique, rapidly evolving local conditions benefits the companies and investors alike.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["irrelevant to", "prohibitive in", "distinctive to", "unchanging in"],
-    "answer": "distinctive to"
+    "options": [
+      "irrelevant to",
+      "prohibitive in",
+      "distinctive to",
+      "unchanging in"
+    ],
+    "answer": "distinctive to",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “irrelevant to”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “prohibitive in”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “distinctive to”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “unchanging in”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Sarah Marquis, who walked 16,000 kilometers across Asia, Siberia, and Australia, undoubtedly accomplished much, but to __________ a lasting historical legacy for oneself, almost nothing is more effective than being the first to do something. For example, people will always remember that Anésia Pinheiro Machado was the first female pilot in Brazil to carry passengers and the first to make stunt flights.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["recognize", "undermine", "constrain", "establish"],
-    "answer": "establish"
+    "options": [
+      "recognize",
+      "undermine",
+      "constrain",
+      "establish"
+    ],
+    "answer": "establish",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “recognize”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “undermine”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “constrain”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: thiết lập; gây dựng\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: found, set up, create"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The National Heritage Fellowship was created to honor exceptional folk and traditional artists in the United States. In 1997, the fellowship was given to the Kunqu opera singer Hua Wenyi. Wenyi was _____ to receive it because of her lifetime contributions to the arts.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["chosen", "ineligible", "confused", "reluctant"],
-    "answer": "chosen"
+    "options": [
+      "chosen",
+      "ineligible",
+      "confused",
+      "reluctant"
+    ],
+    "answer": "chosen",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “chosen”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “ineligible”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “confused”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “reluctant”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Jessica Watson, who was the youngest person to sail nonstop and unassisted around the world, undoubtedly accomplished much, but her place in our historical memory is perhaps more _____ than that of a noteworthy “first” such as Belinda Kirk, who captained the first all-female rowing team to circumnavigate Britain nonstop, a deed for which she will always be remembered.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["enduring", "deserving", "uncertain", "conspicuous"],
-    "answer": "uncertain"
+    "options": [
+      "enduring",
+      "deserving",
+      "uncertain",
+      "conspicuous"
+    ],
+    "answer": "uncertain",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “enduring”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “deserving”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Nghĩa tiếng Việt: không chắc chắn; mong manh\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: doubtful, tenuous, unsettled",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “conspicuous”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "According to a board-gaming website, the game Food Chain Magnate has an average website-user rating of 8.2 out of 10. Although average ratings can be misleading when only a few users have rated the game, Food Chain Magnate has been rated by over 9,000 users, which is an _____ number to feel confident that the average rating is reliable.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["insufficient", "excessive", "accurate", "adequate"],
-    "answer": "adequate"
+    "options": [
+      "insufficient",
+      "excessive",
+      "accurate",
+      "adequate"
+    ],
+    "answer": "adequate",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “insufficient”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “excessive”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: chính xác\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: precise, exact, correct",
+      "D": "Nghĩa tiếng Việt: đủ; tương xứng\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: sufficient, enough, ample"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The Yenisey River delta is a constantly changing landform made up of a network of distributaries, small channels that branch off from the main river. The delta is shaped and reshaped over time as sediments carried by the river __________ where the river meets the Kara Sea, eventually forming new portions of land.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["thrive", "accelerate", "dissolve", "accumulate"],
-    "answer": "accumulate"
+    "options": [
+      "thrive",
+      "accelerate",
+      "dissolve",
+      "accumulate"
+    ],
+    "answer": "accumulate",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “thrive”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tăng tốc; đẩy nhanh\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: hasten, speed up, quicken",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “dissolve”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tích luỹ; gom lại\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: collect, gather, amass"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Nina couldn't stop looking at the sepia-toned photograph in an oak frame. Propped on the window ledge, it featured a portrait of Great-Great-Grandmother Rosita as a young woman.",
     "prompt": "As used in the text, what does the word \"featured\" most nearly mean?",
-    "options": ["Displayed", "Approved", "Questioned", "Ignored"],
-    "answer": "Displayed"
+    "options": [
+      "Displayed",
+      "Approved",
+      "Questioned",
+      "Ignored"
+    ],
+    "answer": "Displayed",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: trưng bày; thể hiện\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: showed, exhibited, revealed",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “Approved”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “Questioned”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “Ignored”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Tom appeared on the sidewalk with a bucket of whitewash and a long-handled brush. He surveyed the fence, and all gladness left him and a deep melancholy settled down upon his spirit. Thirty yards of board fence nine feet high.",
     "prompt": "As used in the text, what does the word \"surveyed\" most nearly mean?",
-    "options": ["Examined", "Promoted", "Modified", "Organized"],
-    "answer": "Examined"
+    "options": [
+      "Examined",
+      "Promoted",
+      "Modified",
+      "Organized"
+    ],
+    "answer": "Examined",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: xem xét; khảo sát\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: inspected, studied, surveyed",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “Promoted”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “Modified”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “Organized”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Politicians routinely claim that journalists are __________, but while it's true that some journalists allow their own views to creep into their reporting more than others do, most journalists make a good-faith effort to be neutral in their reporting.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["sensitive", "biased", "misinformed", "irrelevant"],
-    "answer": "biased"
+    "options": [
+      "sensitive",
+      "biased",
+      "misinformed",
+      "irrelevant"
+    ],
+    "answer": "biased",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “sensitive”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: thiên vị\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: partial, prejudiced, one-sided",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “misinformed”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Nghĩa tiếng Việt: không liên quan\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: immaterial, extraneous, beside the point"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The Chao Phraya River delta system is located in Thailand, where the river drains into the Gulf of Thailand, and is shaped by __________ factors: for example, the geography of the coastline influences sedimentary deposition, which over time alters coastal geography.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["unyielding", "comprehensive", "interdependent", "tenuous"],
-    "answer": "interdependent"
+    "options": [
+      "unyielding",
+      "comprehensive",
+      "interdependent",
+      "tenuous"
+    ],
+    "answer": "interdependent",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: cứng rắn\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: inflexible, adamant, steadfast",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “comprehensive”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: phụ thuộc lẫn nhau\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: mutually dependent, reciprocal, interrelated",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “tenuous”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Although Gordon Parks's 1969 film The Learning Tree and Cheryl Dunye's 1996 film The Watermelon Woman may have had some __________ at the time of their initial release, their place in critics' estimations is now more secure. In 2018, for example, critics for the New York Times described the former as \"richly textured\" and the latter as \"heartbreaking and inspiring.\"",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["precursors", "detractors", "imitators", "collaborators"],
-    "answer": "detractors"
+    "options": [
+      "precursors",
+      "detractors",
+      "imitators",
+      "collaborators"
+    ],
+    "answer": "detractors",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “precursors”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: những người chỉ trích\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: critics, opponents, disparagers",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “imitators”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “collaborators”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Political scientists have found that although voters claim to prefer candidates who have nuanced perspectives on issues and who show a willingness to compromise, when asked to compare speeches expressing such views with speeches expressing __________ views, voters tend to regard the unyielding rhetoric of the latter more favorably.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["vacillating", "banal", "disingenuous", "dogmatic"],
-    "answer": "dogmatic"
+    "options": [
+      "vacillating",
+      "banal",
+      "disingenuous",
+      "dogmatic"
+    ],
+    "answer": "dogmatic",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: do dự; thay đổi ý\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: wavering, indecisive, hesitant",
+      "B": "Nghĩa tiếng Việt: tầm thường; nhàm chán\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: trite, hackneyed, commonplace",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “disingenuous”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: giáo điều; cứng nhắc\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: doctrinaire, rigid, opinionated"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "A number of recording artists __________ distinctions between Indigenous music and other musical styles. For example, Inuit singer-songwriter Tanya Tagaq incorporated Inuit throat singing into electronic music on her album Tongues, and Swinomish/Iñupiaq musician Black Belt Eagle Scout combined powwow-style melodies with rock on her album At the Party with My Brown Friends.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["replace", "disguise", "reject", "observe"],
-    "answer": "reject"
+    "options": [
+      "replace",
+      "disguise",
+      "reject",
+      "observe"
+    ],
+    "answer": "reject",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “replace”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “disguise”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “reject”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “observe”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "For the next few days Alexander was very busy. He took a desk in the office of a [Scottish] engineering firm on Henrietta Street, and was at work almost constantly. He avoided the clubs and usually dined alone at his hotel.",
     "prompt": "As used in the text, what does the word \"constantly\" most nearly mean?",
-    "options": ["Hastily", "Carefully", "Nonstop", "Enough"],
-    "answer": "Nonstop"
+    "options": [
+      "Hastily",
+      "Carefully",
+      "Nonstop",
+      "Enough"
+    ],
+    "answer": "Nonstop",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “Hastily”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “Carefully”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: không ngừng; liên tục\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: continuous, constant, ceaseless",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “Enough”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Radiocarbon dating can help scientists determine whether the extinction of the giant short-faced bear around 8000 BCE. __________ the arrival of humans in the same region of the Americas. If instead the giant short-faced bear died out before humans could have altered its habitat, that suggests that its extinction was the result of some other factor, such as change in sea levels as a result of glaciers retreating.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["compensated for", "coincided with", "developed into", "clashed with"],
-    "answer": "coincided with"
+    "options": [
+      "compensated for",
+      "coincided with",
+      "developed into",
+      "clashed with"
+    ],
+    "answer": "coincided with",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “compensated for”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Nghĩa tiếng Việt: trùng khớp với\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: occurred at the same time as, matched, concurred with",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “developed into”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “clashed with”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Economists often assert that countries looking to increase their reliance on solar energy should expand their capacity for storage; having an ample reserve of stored energy can mitigate the effects of __________ solar energy collection caused by unpredictable shifts in cloud cover and haze.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["calibrations with", "developments of", "fluctuations in", "incentives for"],
-    "answer": "fluctuations in"
+    "options": [
+      "calibrations with",
+      "developments of",
+      "fluctuations in",
+      "incentives for"
+    ],
+    "answer": "fluctuations in",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “calibrations with”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “developments of”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Nghĩa tiếng Việt: sự biến động về\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: variations in, swings in, changes in",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “incentives for”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Few religious buildings can be said to __________ the astonishing size of Sultan Salahuddin Abdul Aziz Mosque in Malaysia, which, with the capacity to accommodate approximately 24,000 people at once, is one of the largest mosques in the world.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["conceal", "symbolize", "minimize", "match"],
-    "answer": "match"
+    "options": [
+      "conceal",
+      "symbolize",
+      "minimize",
+      "match"
+    ],
+    "answer": "match",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “conceal”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “symbolize”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “minimize”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: sánh với; tương xứng\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: equal, rival, compare with"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "In the United States, historians of the American Revolution once had a tendency to approach their subject with __________: they had so much admiration for the people who carried out the revolution that they were far from objective in their scholarship.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["curiosity", "candor", "reverence", "prudence"],
-    "answer": "reverence"
+    "options": [
+      "curiosity",
+      "candor",
+      "reverence",
+      "prudence"
+    ],
+    "answer": "reverence",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “curiosity”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “candor”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: lòng tôn kính\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: veneration, respect, admiration",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “prudence”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "A number of recording artists combine Indigenous music with other musical styles. Choctaw singer-songwriter Samantha Crain masterfully incorporated elements of Choctaw hymns into folk-pop on her single \"When We Remain.\" Similarly, Wayuu singer-songwriter Lido Pimienta __________ Afro-Indigenous music from Colombia with Latin pop on her album Miss Colombia.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["confused", "compared", "blended", "replaced"],
-    "answer": "blended"
+    "options": [
+      "confused",
+      "compared",
+      "blended",
+      "replaced"
+    ],
+    "answer": "blended",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “confused”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “compared”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Nghĩa tiếng Việt: pha trộn; hoà trộn\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: mixed, combined, fused",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “replaced”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Whether the reign of a French monarch such as Charles VIII or Henry I was considered historically significant or, conversely, relatively __________, its trajectory was shaped by questions of legitimacy and therefore cannot be understood without a corollary understanding of the factors that allowed the monarch to assert a claim to the throne successfully.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["momentous", "inconsequential", "benevolent", "genuine"],
-    "answer": "inconsequential"
+    "options": [
+      "momentous",
+      "inconsequential",
+      "benevolent",
+      "genuine"
+    ],
+    "answer": "inconsequential",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “momentous”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: không quan trọng\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: insignificant, trivial, minor",
+      "C": "Nghĩa tiếng Việt: nhân từ; rộng lượng\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: kind, altruistic, charitable",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “genuine”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Barring major archaeological discoveries, we are unlikely to ever have __________ account of ancient Egypt under the female pharaoh Hatshepsut, as much of the evidence of her reign was deliberately destroyed by her successors.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["an exhaustive", "a superficial", "an imaginative", "a questionable"],
-    "answer": "an exhaustive"
+    "options": [
+      "an exhaustive",
+      "a superficial",
+      "an imaginative",
+      "a questionable"
+    ],
+    "answer": "an exhaustive",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “an exhaustive”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: hời hợt; bề ngoài\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: shallow, surface-level, cursory",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “an imaginative”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: đáng ngờ; có thể sai\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: doubtful, suspect, debatable"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The Roc-aux-Sorciers frieze—a group of relief carvings of animals found in what is now France and dating from around 14,000 years ago—is sometimes said to be emotionally powerful despite its age, but in fact the frieze is __________ precisely because of its age. It is the link of shared humanity with the artist across so many centuries that gives the Roc-aux-Sorciers frieze such resonance.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["ingenious", "pristine", "meticulous", "affecting"],
-    "answer": "affecting"
+    "options": [
+      "ingenious",
+      "pristine",
+      "meticulous",
+      "affecting"
+    ],
+    "answer": "affecting",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: khéo léo; thông minh\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: clever, resourceful, inventive",
+      "B": "Nghĩa tiếng Việt: nguyên sơ; tinh khôi\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: untouched, immaculate, unspoiled",
+      "C": "Nghĩa tiếng Việt: tỉ mỉ; cẩn trọng\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: scrupulous, painstaking, thorough",
+      "D": "Nghĩa tiếng Việt: gây xúc động\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: moving, touching, poignant"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The National Heritage Fellowship was created to honor exceptional folk and traditional artists in the United States for their __________. The Navajo (Diné) basket weaver Mary Holiday Black was chosen for the fellowship because she has contributed so much to the arts.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["achievements", "predictions", "suspicions", "assumptions"],
-    "answer": "achievements"
+    "options": [
+      "achievements",
+      "predictions",
+      "suspicions",
+      "assumptions"
+    ],
+    "answer": "achievements",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: thành tựu\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: accomplishments, feats, successes",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “predictions”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “suspicions”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: giả định\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: premises, suppositions, beliefs"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "One person after another rose, and, as with an ill balanced axe, attempted to hew out his conception of art a little more clearly, and sat down with the feeling that, for some reason which he could not grasp, his strokes had gone awry. As they sat down they turned almost invariably to the person sitting next to them, and rectified and continued what they had just said in public.",
     "prompt": "As used in the text, what does the figurative phrase \"hew out\" most nearly mean?",
-    "options": ["Vacate", "Mimic", "Visualize", "Define"],
-    "answer": "Define"
+    "options": [
+      "Vacate",
+      "Mimic",
+      "Visualize",
+      "Define"
+    ],
+    "answer": "Define",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: rời bỏ; bỏ trống\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: leave, evacuate, abandon",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “Mimic”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: hình dung; mường tượng\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: imagine, picture, envision",
+      "D": "Nghĩa tiếng Việt: định nghĩa; làm rõ\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: clarify, explain, delineate"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "\"I'm going to have one of these gorgeous oranges,\" said Mrs. Wilkins, staying where she was and reaching across to a black bowl piled with them. \"Rose, how can you resist them? Look—have this one. Do have this beauty—\" And she held out a big one.",
     "prompt": "As used in the text, what does the phrase \"reaching across to\" most nearly mean?",
-    "options": ["Joining with", "Gaining on", "Stretching toward", "Arriving at"],
-    "answer": "Stretching toward"
+    "options": [
+      "Joining with",
+      "Gaining on",
+      "Stretching toward",
+      "Arriving at"
+    ],
+    "answer": "Stretching toward",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “Joining with”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “Gaining on”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “Stretching toward”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Nghĩa tiếng Việt: đi đến; đạt được\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: reaching, achieving, coming to"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Urban planning expert Francisco Lara-Valencia and colleagues have argued that managing environmental matters along the US-Mexico border _____ coordination between the two countries' governments. Since ecosystems extend across the border, actions taken on one side can have environmental effects on the other side, making international cooperation essential.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["requires", "praises", "reports", "advises"],
-    "answer": "requires"
+    "options": [
+      "requires",
+      "praises",
+      "reports",
+      "advises"
+    ],
+    "answer": "requires",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: đòi hỏi; yêu cầu\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: demands, necessitates, needs",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “praises”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “reports”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: khuyên; tư vấn\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: recommends, counsels, urges"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Some robots such as Salvius (developed in 2008) and REEM-C (developed in 2013) are designed to resemble humans so that people will find it easier to interact with them. To this end, certain features such as bipedal locomotion can help to create the comforting semblance of humanity, but a robot that appears too similar to humans can make people feel more unsettled than _____.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["revolted", "indifferent", "soothed", "vindicated"],
-    "answer": "soothed"
+    "options": [
+      "revolted",
+      "indifferent",
+      "soothed",
+      "vindicated"
+    ],
+    "answer": "soothed",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “revolted”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “indifferent”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: xoa dịu; trấn an\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: calmed, comforted, reassured",
+      "D": "Nghĩa tiếng Việt: được minh oan; chứng thực\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: justified, exonerated, upheld"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Though most hoaxes perpetrated as jokes by mischievous users of Wikipedia, an online encyclopedia that almost anyone can freely edit, have quickly been detected and removed, a few fictitious entries, such as those for the country singer-songwriter Joseph G. Williams and the Jamaican bird allegedly known as the Salvadorian Magpie, persisted on the site for many years before they were finally recognized as _____ and deleted.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["enhancements", "fabrications", "analyses", "revelations"],
-    "answer": "fabrications"
+    "options": [
+      "enhancements",
+      "fabrications",
+      "analyses",
+      "revelations"
+    ],
+    "answer": "fabrications",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “enhancements”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: bịa đặt; ngụy tạo\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: inventions, fakes, forgeries",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “analyses”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “revelations”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The swordfish can swim very fast—up to 97 kilometers per hour (km/hr)—but it is significantly slower than the golden eagle, which can fly at speeds up to 320 km/hr. The _______ between these two speeds is not surprising, however, because the features that are most useful for swimming through water tend to be more limiting on top speeds than the features that are best suited for flying through the air.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["competition", "equivalence", "interaction", "disparity"],
-    "answer": "disparity"
+    "options": [
+      "competition",
+      "equivalence",
+      "interaction",
+      "disparity"
+    ],
+    "answer": "disparity",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “competition”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “equivalence”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “interaction”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Nghĩa tiếng Việt: chênh lệch\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: difference, gap, imbalance"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The early British postal system required the cost of mail delivery to be paid upon receipt, a system which encouraged inventive strategies by the intended recipient to avoid payment. To improve this system, _______ were proposed in 1837, including the use of a postage stamp, a small receipt pasted to the mail indicating that delivery costs had been paid by the sender.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["investigations", "expansions", "reforms", "possessions"],
-    "answer": "reforms"
+    "options": [
+      "investigations",
+      "expansions",
+      "reforms",
+      "possessions"
+    ],
+    "answer": "reforms",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “investigations”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “expansions”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: cải cách\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: changes, improvements, overhauls",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “possessions”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Consumers usually _______ rising prices of nonessential products, such as video games or jewelry, by purchasing fewer of those products. When the prices fall, consumers usually react the opposite way, by purchasing more of those products.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["differ from", "think of", "respond to", "agree with"],
-    "answer": "respond to"
+    "options": [
+      "differ from",
+      "think of",
+      "respond to",
+      "agree with"
+    ],
+    "answer": "respond to",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “differ from”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “think of”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Nghĩa tiếng Việt: phản hồi; đáp lại\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: react to, answer, address",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “agree with”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Cuttlefish appear to be surprisingly _______ at exercising self-control: in a 2021 study conducted by behavioral ecologist Alexandra Schnell, these cephalopods routinely demonstrated restraint by delaying gratification, waiting for a favorite treat instead of instantly devouring a readily available meal.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["awkward", "imaginative", "manageable", "competent"],
-    "answer": "competent"
+    "options": [
+      "awkward",
+      "imaginative",
+      "manageable",
+      "competent"
+    ],
+    "answer": "competent",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: vụng về; khó xử\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: clumsy, ungainly, inelegant",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “imaginative”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “manageable”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: có năng lực\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: capable, proficient, adept"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The percentage of US forest land that a 2023 federal report identified as being either mature or old growth exceeds other recent estimates. Given how little ___ there is among scientists regarding the scope of these categories, this discrepancy shouldn’t be surprising: forest researchers regularly dispute one another’s classifications.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["consensus", "vigilance", "interest", "deliberation"],
-    "answer": "consensus"
+    "options": [
+      "consensus",
+      "vigilance",
+      "interest",
+      "deliberation"
+    ],
+    "answer": "consensus",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: đồng thuận\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: agreement, concord, unanimity",
+      "B": "Nghĩa tiếng Việt: cảnh giác; đề phòng\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: watchfulness, alertness, guardedness",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “interest”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “deliberation”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Many of late nineteenth-century artist James McNeill Whistler’s oil paintings and lithographs depict the streets of European cities. While his contemporaries’ approaches to these subjects were often sentimental, Whistler’s eye seemed __________. In this way, he anticipated the early twentieth-century photographs of Walker Evans, which create the illusion of being objective documentations of life.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["tranquil", "peculiar", "nostalgic", "dispassionate"],
-    "answer": "dispassionate"
+    "options": [
+      "tranquil",
+      "peculiar",
+      "nostalgic",
+      "dispassionate"
+    ],
+    "answer": "dispassionate",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “tranquil”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “peculiar”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “nostalgic”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: khách quan; bình thản\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: objective, detached, impartial"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Lucian of Samosata (modern-day Turkey) was a second-century satirist who mostly ridiculed qualities of philosophers of the time. His work True History, however, is _____, featuring tropes that are hallmarks of present-day science fiction (e.g., space travel, interplanetary conflict); it is regarded by some scholars as the earliest known work in the genre.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["authorized", "applicable", "sarcastic", "visionary"],
-    "answer": "visionary"
+    "options": [
+      "authorized",
+      "applicable",
+      "sarcastic",
+      "visionary"
+    ],
+    "answer": "visionary",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: ủy quyền; cấp phép\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: sanctioned, approved, licensed",
+      "B": "Nghĩa tiếng Việt: áp dụng được; phù hợp\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: relevant, pertinent, germane",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “sarcastic”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: có tầm nhìn; tiên phong\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: forward-looking, prophetic, innovative"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The familial structure of the black swan (Cygnus atratus) shows tremendous _____: breeding pairs with demonstrated success in rearing cygnets (young swans) have been observed to foster those of less successful pairs, and while rearing by female-male pairs is most common, male-male pairs sometimes rear cygnets too, achieving a significantly higher rate of survival to adulthood than female-male pairs.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["elasticity", "reciprocity", "cohesion", "affection"],
-    "answer": "elasticity"
+    "options": [
+      "elasticity",
+      "reciprocity",
+      "cohesion",
+      "affection"
+    ],
+    "answer": "elasticity",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: độ đàn hồi\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: flexibility, resilience, pliability",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “reciprocity”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “cohesion”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Nghĩa tiếng Việt: tình cảm; yêu mến\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: fondness, love, attachment"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Run by researchers in multiple countries, the Study on Global Ageing and Adult Health (SAGE) is an examination of aging that has attempted to track approximately 66,000 people for several years. Long-running studies like this need a lot of participants not merely for statistical robustness but also because of _____: over such a length of time, a substantial number of participants will withdraw or fall out of contact with the researchers.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["impartiality", "replicability", "attrition", "circumspection"],
-    "answer": "attrition"
+    "options": [
+      "impartiality",
+      "replicability",
+      "attrition",
+      "circumspection"
+    ],
+    "answer": "attrition",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “impartiality”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “replicability”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Nghĩa tiếng Việt: hao hụt; rơi rụng\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: dropout, wearing away, churn",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “circumspection”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "During his career, Cuban composer and pianist Ernesto Lecuona produced hundreds of compositions. Especially impressive is how __________ his body of work is: Lecuona showcased a diverse range of musical talents in different areas, from orchestral pieces and operas to popular film scores.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["outdated", "lonely", "forgotten", "varied"],
-    "answer": "varied"
+    "options": [
+      "outdated",
+      "lonely",
+      "forgotten",
+      "varied"
+    ],
+    "answer": "varied",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “outdated”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “lonely”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “forgotten”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: đa dạng\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: diverse, assorted, miscellaneous"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The social structure of medieval Bremen was heavily influenced by hierarchical institutions (e.g., kinship groups) within the settlement, a condition that some researchers suggest potentially ____ not just social but also economic fluidity—and by extension, urban growth—by constraining the range of contacts available to individuals in the settlement.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["protracted", "disseminated", "inhibited", "catalyzed"],
-    "answer": "inhibited"
+    "options": [
+      "protracted",
+      "disseminated",
+      "inhibited",
+      "catalyzed"
+    ],
+    "answer": "inhibited",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “protracted”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “disseminated”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Nghĩa tiếng Việt: bị kìm hãm; rụt rè\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: restrained, hindered, held back",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “catalyzed”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "In some of his sculptures, Allan Houser uses abstract geometric shapes to depict his subjects rather than portraying them in realistic detail. For instance, his 1989 work Embrace is highly abstract and therefore differs strikingly from some of his other pieces in which the viewer can easily __________ familiar objects.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["reveal", "remember", "ignore", "identify"],
-    "answer": "identify"
+    "options": [
+      "reveal",
+      "remember",
+      "ignore",
+      "identify"
+    ],
+    "answer": "identify",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “reveal”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “remember”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “ignore”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: nhận diện; xác định\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: recognize, pinpoint, distinguish"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Some pieces of music might have many meanings—the compositions of Marion Bauer can ____ as many different interpretations as there are people to listen to them—and so as long as a listener’s interpretation isn’t willfully absurd or the result of inattention, it is difficult to justify the claim that the listener has misunderstood the piece.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["evade", "refute", "support", "omit"],
-    "answer": "support"
+    "options": [
+      "evade",
+      "refute",
+      "support",
+      "omit"
+    ],
+    "answer": "support",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “evade”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “refute”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: hỗ trợ; ủng hộ\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: back up, sustain, underpin",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “omit”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Some robots such as KHR-1 (developed in 2004) and Sophia (developed in 2015) feature humanoid characteristics like bipedal locomotion so that people will find it easier to interact with them. While these features can help to ____ feelings of comfort in people, a robot that looks too human can fall into the “uncanny valley,” meaning that its appearance unintentionally unsettles those who encounter it.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["counterbalance", "repudiate", "constrict", "engender"],
-    "answer": "engender"
+    "options": [
+      "counterbalance",
+      "repudiate",
+      "constrict",
+      "engender"
+    ],
+    "answer": "engender",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “counterbalance”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “repudiate”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “constrict”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: gây ra; tạo ra\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: produce, generate, foster"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Karam Kang has demonstrated that lobbying does little to alter the probability that a particular energy policy under consideration by the United States Congress will be enacted, but lobbying is not as ____ as this finding seems to suggest. As Kang herself notes, lobbying can shape which policy proposals members of Congress bring forward for consideration in the first place.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["ineffectual", "cynical", "counterproductive", "biased"],
-    "answer": "ineffectual"
+    "options": [
+      "ineffectual",
+      "cynical",
+      "counterproductive",
+      "biased"
+    ],
+    "answer": "ineffectual",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: không hiệu quả\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: ineffective, futile, unproductive",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “cynical”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “counterproductive”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: thiên vị\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: partial, prejudiced, one-sided"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "People sometimes dismiss a claim if it comes from a source they regard as self-interested, but from a strictly logical perspective, the source of a claim is ____: it has no direct bearing on whether the claim is true.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["implicit", "indisputable", "irrelevant", "indistinct"],
-    "answer": "irrelevant"
+    "options": [
+      "implicit",
+      "indisputable",
+      "irrelevant",
+      "indistinct"
+    ],
+    "answer": "irrelevant",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “implicit”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “indisputable”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: không liên quan\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: immaterial, extraneous, beside the point",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “indistinct”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Manul cats are small, shy felines. They live mostly alone in out-of-the-way parts of Asia, such as on Mount Everest. These cats have been difficult to research because their habitats are so ________ large populations of humans.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["drawn to", "full of", "distant from", "responsible for"],
-    "answer": "distant from"
+    "options": [
+      "drawn to",
+      "full of",
+      "distant from",
+      "responsible for"
+    ],
+    "answer": "distant from",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “drawn to”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “full of”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “distant from”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “responsible for”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Some paleontologists thought that a sudden shift toward an arid climate on the Australian continent may have brought about the rapid extinction of several species of large kangaroos around 200,000 years ago. However, new evidence that the change in conditions occurred well before those species went extinct is forcing paleontologists to ________ that hypothesis.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["revise", "interpret", "recollect", "introduce"],
-    "answer": "revise"
+    "options": [
+      "revise",
+      "interpret",
+      "recollect",
+      "introduce"
+    ],
+    "answer": "revise",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “revise”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “interpret”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “recollect”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “introduce”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Tom appeared on the sidewalk with a bucket of whitewash and a long-handled brush. He surveyed the fence, and all gladness left him and a deep melancholy settled down upon his spirit. Thirty yards of board fence nine feet high.",
     "prompt": "As used in the text, what does the word “surveyed” most nearly mean?",
-    "options": ["Had questions about", "Was intrigued by", "Looked at", "Ordered"],
-    "answer": "Looked at"
+    "options": [
+      "Had questions about",
+      "Was intrigued by",
+      "Looked at",
+      "Ordered"
+    ],
+    "answer": "Looked at",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “Had questions about”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “Was intrigued by”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “Looked at”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “Ordered”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The invention in 1958 of the integrated circuit (or microchip) radically altered the semiconductor industry. In fact, some historians argue that it fundamentally ________ the industry by enabling it to take advantage of mass production methods for the first time.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["obstructed", "transformed", "bypassed", "overwhelmed"],
-    "answer": "transformed"
+    "options": [
+      "obstructed",
+      "transformed",
+      "bypassed",
+      "overwhelmed"
+    ],
+    "answer": "transformed",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “obstructed”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “transformed”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “bypassed”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “overwhelmed”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Text corpora such as the Corpus of Contemporary American English are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding how ________ a word is in spoken and written English. For instance, one might have a guess about the incidence of the word “day,” but only an analysis of a corpus can prove that “day” is the fifth most commonly used noun.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["assertive", "credible", "pervasive", "profound"],
-    "answer": "pervasive"
+    "options": [
+      "assertive",
+      "credible",
+      "pervasive",
+      "profound"
+    ],
+    "answer": "pervasive",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: quyết đoán; mạnh mẽ\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: self-assured, confident, forceful",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “credible”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: lan toả; phổ biến\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: widespread, ubiquitous, prevalent",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “profound”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Today, the mobile application Instagram is thought of exclusively as a photo- and video-sharing program, but image-sharing was originally ________ the app’s main purpose, which was to allow users to indicate their locations to other users in real time. Only once it became clear how popular the secondary feature of image-sharing was did the company shift to making that the app’s centerpiece.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["subordinate to", "duplicated in", "extracted by", "intrinsic to"],
-    "answer": "subordinate to"
+    "options": [
+      "subordinate to",
+      "duplicated in",
+      "extracted by",
+      "intrinsic to"
+    ],
+    "answer": "subordinate to",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “subordinate to”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “duplicated in”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “extracted by”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “intrinsic to”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The Beirut Stock Exchange in Beirut, Lebanon, connects companies operating in Lebanon with potential investors. This is a valuable service since the time and expense necessary to find individual investors might otherwise be ________ for these companies; many of the companies could not operate if they had to do everything necessary to find investors for themselves.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["distinctive", "misconstrued", "prohibitive", "beneficial"],
-    "answer": "prohibitive"
+    "options": [
+      "distinctive",
+      "misconstrued",
+      "prohibitive",
+      "beneficial"
+    ],
+    "answer": "prohibitive",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “distinctive”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “misconstrued”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “prohibitive”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: có lợi; có ích\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: helpful, advantageous, favorable"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "A casual description of Scherezade García’s 2019 mural Blame It on the Bean: The Power of Coffee can make the work seem __________—a painting that is housed in a coffee shop and that depicts three women drinking coffee may not sound particularly ambitious—but in fact the work is a complex, dynamic meditation on gender and the legacy of colonialism that demands serious attention.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["incongruous", "shrewd", "pretentious", "unassuming"],
-    "answer": "unassuming"
+    "options": [
+      "incongruous",
+      "shrewd",
+      "pretentious",
+      "unassuming"
+    ],
+    "answer": "unassuming",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “incongruous”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “shrewd”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “pretentious”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “unassuming”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Some robots such as Actroid (developed in 2003) and Auriga (developed in 2011) are designed to resemble humans so that people will find it easier to interact with them. To that end, certain features such as bipedal locomotion can help to __________ people’s feelings of comfort, but a robot that looks too human can fall into the “uncanny valley,” meaning that its appearance unintentionally unsettles those who encounter it.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["mitigate", "constrict", "repudiate", "buttress"],
-    "answer": "buttress"
+    "options": [
+      "mitigate",
+      "constrict",
+      "repudiate",
+      "buttress"
+    ],
+    "answer": "buttress",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “mitigate”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “constrict”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “repudiate”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “buttress”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "That journey across the Isthmus [of Panama], insignificant in distance as it was, was by no means an easy one. It seemed as if nature had determined to throw every conceivable obstacle in the way of those who should seek to join the two great oceans of the world.",
     "prompt": "As used in the text, what does the word “conceivable” most nearly mean?",
-    "options": ["Visible", "Stable", "Possible", "Basic"],
-    "answer": "Possible"
+    "options": [
+      "Visible",
+      "Stable",
+      "Possible",
+      "Basic"
+    ],
+    "answer": "Possible",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: hiển thị; nhìn thấy được\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: noticeable, apparent, evident",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “Stable”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “Possible”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: cơ bản\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: fundamental, elementary, rudimentary"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Animal researcher Amalia P.M. Bastos led a 2021 study about a wild kea parrot that used small stones as tools to preen its feathers. Skeptical colleagues had initially suggested to Bastos that the kea’s interactions with the stones might simply be ________, but Bastos and her team showed that the kea was using the stones deliberately.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["intriguing", "obvious", "accidental", "observable"],
-    "answer": "accidental"
+    "options": [
+      "intriguing",
+      "obvious",
+      "accidental",
+      "observable"
+    ],
+    "answer": "accidental",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “intriguing”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “obvious”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “accidental”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “observable”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The presence of Azerbaijan’s Khan’s Palace on the United Nations Educational, Scientific, and Cultural Organization’s World Heritage List indicates that the organization has designated it as having “outstanding universal value” and is therefore ________ its preservation and protection.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["exploiting", "advocating", "impeding", "defining"],
-    "answer": "advocating"
+    "options": [
+      "exploiting",
+      "advocating",
+      "impeding",
+      "defining"
+    ],
+    "answer": "advocating",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “exploiting”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Nghĩa tiếng Việt: ủng hộ công khai\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: supporting, championing, promoting",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “impeding”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “defining”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Some pieces of music might have many _____—the compositions of Zenobia Powell Perry can potentially be explained in as many ways as there are people to listen to them—and so as long as a listener’s reasoning isn’t absurd or the result of inattention, it is difficult to justify the claim that the listener has misunderstood the piece.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["interpretations", "performances", "revisions", "influences"],
-    "answer": "interpretations"
+    "options": [
+      "interpretations",
+      "performances",
+      "revisions",
+      "influences"
+    ],
+    "answer": "interpretations",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “interpretations”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “performances”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “revisions”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “influences”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Disproving the common misconception of Native art as _____, the painters whose work appears in the collection at the National Museum of the American Indian employ a range of styles. There are artists working in the traditional arts of their specific tribal communities, artists working in European modernist or American abstract expressionist art traditions, and artists blending various traditions into something wholly new.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["uncontroversial", "individualistic", "theoretical", "homogeneous"],
-    "answer": "homogeneous"
+    "options": [
+      "uncontroversial",
+      "individualistic",
+      "theoretical",
+      "homogeneous"
+    ],
+    "answer": "homogeneous",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “uncontroversial”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “individualistic”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “theoretical”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “homogeneous”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The fossil remains of the individual known as Tabun C1, discovered in Israel in 1967, can help paleoanthropologists not only _____ steps in the evolution of hominids but also illuminate the Pleistocene epoch generally, revealing important details about the time in which Tabun C1 lived.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["yield", "exploit", "prioritize", "discern"],
-    "answer": "discern"
+    "options": [
+      "yield",
+      "exploit",
+      "prioritize",
+      "discern"
+    ],
+    "answer": "discern",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “yield”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “exploit”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “prioritize”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “discern”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The Last of England, painted in the realist style by Ford Madox Brown, depicts a working-class family immigrating to Australia to start a new life and emphasizes accuracy in its portrayal of the experiences of ordinary working people. This style largely _____ the conventions of the romantic style evident in many paintings by Jean-Victor Schnetz, which instead accentuated their subjects’ positive traits by, for example, placing them in staged settings with expensive looking decorations and presenting them with smooth, unblemished skin.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["extended", "imitated", "rejected", "epitomized"],
-    "answer": "rejected"
+    "options": [
+      "extended",
+      "imitated",
+      "rejected",
+      "epitomized"
+    ],
+    "answer": "rejected",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “extended”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “imitated”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “rejected”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “epitomized”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "In 2016, Gabriela González and team announced that a chirping sound captured by Laser Interferometer Gravitational-Wave Observatory antennas was direct evidence of gravitational waves, which skeptics had argued would be too faint for detection. Detailed statistical analysis helped preclude claims of the event’s _____, confirming the signal at a confidence level of over 99%.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["inconspicuousness", "probability", "ambiguity", "discretion"],
-    "answer": "ambiguity"
+    "options": [
+      "inconspicuousness",
+      "probability",
+      "ambiguity",
+      "discretion"
+    ],
+    "answer": "ambiguity",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “inconspicuousness”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “probability”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “ambiguity”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “discretion”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "When discussing literary movements in the United States, scholars regularly characterize the works of William Henry Furness as especially representative of transcendentalism. The reasons for this characterization may seem _____, but linking Furness with transcendentalism risks disregarding the subtleties in his style that do not neatly conform to the conventions of this literary movement.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["provocative", "irrefutable", "pretentious", "incongruous"],
-    "answer": "irrefutable"
+    "options": [
+      "provocative",
+      "irrefutable",
+      "pretentious",
+      "incongruous"
+    ],
+    "answer": "irrefutable",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “provocative”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “irrefutable”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “pretentious”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “incongruous”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Some social scientists say that while a belief in the importance of reason and progress is key to democracy, public understanding of economics is also central to public comprehension of state politics, and if a citizenry is to function, economic issues cannot remain the province only of specialists. In short, knowledge of economics is not _____ and must not be left to economists alone.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["unattainable", "equitable", "superfluous", "commonplace"],
-    "answer": "superfluous"
+    "options": [
+      "unattainable",
+      "equitable",
+      "superfluous",
+      "commonplace"
+    ],
+    "answer": "superfluous",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “unattainable”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “equitable”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “superfluous”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “commonplace”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "It would not be productive for supporters of a proposal to increase the toll that drivers must pay to use the Claiborne Pell Bridge, which spans Narragansett Bay in Rhode Island, to direct their arguments at those drivers who strongly believe that the current toll is too high. There’s little point in trying to _____ someone whose mind is already made up.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["ignore", "sway", "identify", "support"],
-    "answer": "sway"
+    "options": [
+      "ignore",
+      "sway",
+      "identify",
+      "support"
+    ],
+    "answer": "sway",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “ignore”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “sway”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: nhận diện; xác định\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: recognize, pinpoint, distinguish",
+      "D": "Nghĩa tiếng Việt: hỗ trợ; ủng hộ\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: back up, sustain, underpin"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Possessing an outstanding collection of public art, Chicago has everything from monumental sculptures like Joan Miró’s Miró’s Chicago at sites like Brunswick Plaza to innovative street art like Kristen Kula’s mural Tornado located on East 11th Street. The _____ public art on display in the city can thus satisfy any art lover.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["breadth of", "controversy over", "apathy toward", "confusion about"],
-    "answer": "breadth of"
+    "options": [
+      "breadth of",
+      "controversy over",
+      "apathy toward",
+      "confusion about"
+    ],
+    "answer": "breadth of",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “breadth of”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “controversy over”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "C": "Nghĩa tiếng Việt: sự thờ ơ với\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: indifference to, lack of interest in, dispassion toward",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “confusion about”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Text corpora such as the Corpus of Contemporary American English are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding how _____ a word is in spoken and written English. For instance, one might have a guess about the incidence of the word “day,” but only an analysis of a corpus can prove that “day” is the fifth most commonly used noun.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["assertive", "profound", "credible", "pervasive"],
-    "answer": "pervasive"
+    "options": [
+      "assertive",
+      "profound",
+      "credible",
+      "pervasive"
+    ],
+    "answer": "pervasive",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: quyết đoán; mạnh mẽ\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: self-assured, confident, forceful",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “profound”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “credible”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: lan toả; phổ biến\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: widespread, ubiquitous, prevalent"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Once again\n Do I behold these steep and lofty cliffs,\n Which on a wild secluded scene impress\n Thoughts of more deep seclusion; and connect\n The landscape with the quiet of the sky.",
     "prompt": "As used in the text, what does the word “behold” most nearly mean?",
-    "options": ["Forget", "Conceal", "Possess", "Regard"],
-    "answer": "Regard"
+    "options": [
+      "Forget",
+      "Conceal",
+      "Possess",
+      "Regard"
+    ],
+    "answer": "Regard",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “Forget”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “Conceal”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “Possess”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “Regard”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Categorical claims about the original function and significance of the Guennol Lioness—a limestone sculpture of a part-lion, part-human figure found in what is now Iraq and dating from around 5,000 years ago—should be treated _____. We simply do not know enough about the people of the time to say with certainty what the sculpture meant to them.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["skeptically", "reverentially", "indulgently", "individually"],
-    "answer": "skeptically"
+    "options": [
+      "skeptically",
+      "reverentially",
+      "indulgently",
+      "individually"
+    ],
+    "answer": "skeptically",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “skeptically”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “reverentially”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “indulgently”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “individually”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Despite stated claims of global relevance, much major research on income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later ____ this shortcoming after gaining new access to banking records located in nations in Asia, such as South Korea, and Eastern Europe, such as Hungary.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["mitigate", "presuppose", "validate", "categorize"],
-    "answer": "mitigate"
+    "options": [
+      "mitigate",
+      "presuppose",
+      "validate",
+      "categorize"
+    ],
+    "answer": "mitigate",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “mitigate”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “presuppose”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: xác thực; kiểm chứng\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: verify, confirm, authenticate",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “categorize”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The Putra Mosque in Putrajaya, Malaysia, is a massive mosque that can accommodate approximately 15,000 people at once, making it an _____ sight to behold.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["illusory", "intricate", "idealized", "imposing"],
-    "answer": "imposing"
+    "options": [
+      "illusory",
+      "intricate",
+      "idealized",
+      "imposing"
+    ],
+    "answer": "imposing",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: hư ảo; đánh lừa\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: deceptive, unreal, specious",
+      "B": "Nghĩa tiếng Việt: rắc rối; nhiều chi tiết\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: complex, elaborate, complicated",
+      "C": "Nghĩa tiếng Việt: lý tưởng hoá; tô hồng\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: romanticized, perfected, idealistic",
+      "D": "Nghĩa tiếng Việt: hùng vĩ; ấn tượng\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: grand, majestic, awe-inspiring"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "When discussing literary movements in the United States, scholars regularly characterize the works of Walt Whitman as especially representative of transcendentalism. The reasons for this characterization may seem _____, but linking Whitman with transcendentalism risks disregarding the subtleties in his style that do not neatly conform to the conventions of this literary movement.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["incongruous", "irrefutable", "pretentious", "provocative"],
-    "answer": "irrefutable"
+    "options": [
+      "incongruous",
+      "irrefutable",
+      "pretentious",
+      "provocative"
+    ],
+    "answer": "irrefutable",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “incongruous”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “irrefutable”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “pretentious”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “provocative”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "When considering which plays and musicals to produce, theaters in New York often favor keeping audiences happy over taking risks. So while they might be eager to produce an established classic like Annie, for example, most would be _____ to stage a work from a relatively unknown playwright.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["fortunate", "hesitant", "determined", "surprised"],
-    "answer": "hesitant"
+    "options": [
+      "fortunate",
+      "hesitant",
+      "determined",
+      "surprised"
+    ],
+    "answer": "hesitant",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “fortunate”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “hesitant”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “determined”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “surprised”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Domesticated thousands of years ago in South America, the avocado deviates structurally from the wild plant it is descended from. Summer squash, another domesticated crop from the Americas, doesn’t closely resemble any wild plant, and genetic research only recently _____ its ancestor to be the wild Johnny gourd.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["encouraged", "expanded", "petitioned", "revealed"],
-    "answer": "revealed"
+    "options": [
+      "encouraged",
+      "expanded",
+      "petitioned",
+      "revealed"
+    ],
+    "answer": "revealed",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “encouraged”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “expanded”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “petitioned”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “revealed”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Ronyoung Kim creatively captures the Korean American immigrant experience in her novel Clay Walls by writing about a family from three _____ perspectives. The first section of the novel is from the mother Haesu’s perspective, the second is from the father Chun’s perspective, and the last is from the daughter Faye’s perspective.",
     "prompt": "Which choice completes the text with the most logical and precise word?",
-    "options": ["distinct", "unintended", "unknown", "required"],
-    "answer": "distinct"
+    "options": [
+      "distinct",
+      "unintended",
+      "unknown",
+      "required"
+    ],
+    "answer": "distinct",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “distinct”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “unintended”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “unknown”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “required”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Ancient Greek and Roman sculpture is sometimes characterized as idealizing human subjects, but in fact there are many Greco-Roman sculptures that depict people in decidedly _____ ways.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["unflattering", "implausible", "imprecise", "superficial"],
-    "answer": "unflattering"
+    "options": [
+      "unflattering",
+      "implausible",
+      "imprecise",
+      "superficial"
+    ],
+    "answer": "unflattering",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “unflattering”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “implausible”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “imprecise”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “superficial”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Text corpora such as the Corpus of Contemporary American English are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding how _____ a word is in spoken and written English. For instance, one might have a guess about the incidence of the word “day,” but only an analysis of a corpus can prove that “day” is the fifth most commonly used noun.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["profound", "assertive", "pervasive", "credible"],
-    "answer": "pervasive"
+    "options": [
+      "profound",
+      "assertive",
+      "pervasive",
+      "credible"
+    ],
+    "answer": "pervasive",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “profound”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: quyết đoán; mạnh mẽ\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: self-assured, confident, forceful",
+      "C": "Nghĩa tiếng Việt: lan toả; phổ biến\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: widespread, ubiquitous, prevalent",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “credible”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Writer Lydia Davis observed that while traditional literary forms, such as the short story, are recognizable as such even as they evolve, there are more _____ forms that might, for example, borrow elements from both fables and realist narratives to make something unconventional. The late-period pieces of James Tate arguably fit in this category, since they straddle the line between prose and poetry.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["amorphous", "neutral", "customary", "dispersed"],
-    "answer": "amorphous"
+    "options": [
+      "amorphous",
+      "neutral",
+      "customary",
+      "dispersed"
+    ],
+    "answer": "amorphous",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “amorphous”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “neutral”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “customary”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “dispersed”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "[Katharine’s] descent from [a celebrated poet] was no surprise to her, but matter for satisfaction, until, as the years wore on, certain drawbacks made themselves very manifest. Perhaps it is a little depressing to inherit not lands but an example of intellectual virtue; perhaps the conclusiveness of a great ancestor is a little discouraging to those who run the risk of comparison with him.",
     "prompt": "As used in the text, what does the word “manifest” most nearly mean?",
-    "options": ["Anticipated", "Particular", "Complex", "Evident"],
-    "answer": "Evident"
+    "options": [
+      "Anticipated",
+      "Particular",
+      "Complex",
+      "Evident"
+    ],
+    "answer": "Evident",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “Anticipated”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “Particular”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “Complex”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “Evident”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "To entice study participants, psychology researchers commonly offer a gift card or other compensation. However, this practice may undercut the applicability of the study’s results: people who join a study in response to _____ may differ in important ways from a representative sample of the population of interest.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["an appeasement", "a propensity", "an inducement", "a paradigm"],
-    "answer": "an inducement"
+    "options": [
+      "an appeasement",
+      "a propensity",
+      "an inducement",
+      "a paradigm"
+    ],
+    "answer": "an inducement",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “an appeasement”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: xu hướng; khuynh hướng\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: tendency, inclination, predisposition",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “an inducement”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: mẫu hình; hệ mẫu\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: model, pattern, archetype"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The internet is sometimes likened to a public square, but this is a decidedly _____ analogy. The face-to-face nature of a public setting enforces behavioral norms that are absent in the anonymous world of the internet.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["objective", "invaluable", "imperfect", "clichéd"],
-    "answer": "imperfect"
+    "options": [
+      "objective",
+      "invaluable",
+      "imperfect",
+      "clichéd"
+    ],
+    "answer": "imperfect",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “objective”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “invaluable”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “imperfect”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “clichéd”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Lights from the outside world then filled the train car as it rose out of the ground and climbed the elevated track. As long as Moss had lived in West Oakland, he’d never tired of this specific view, so he pointed toward the windows. “Check it,” he said, and the Port of Oakland began to pass by them.",
     "prompt": "As used in the text, what does the word “specific” most nearly mean?",
-    "options": ["Imaginary", "Correct", "Particular", "Energetic"],
-    "answer": "Particular"
+    "options": [
+      "Imaginary",
+      "Correct",
+      "Particular",
+      "Energetic"
+    ],
+    "answer": "Particular",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “Imaginary”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “Correct”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “Particular”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “Energetic”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "The fog extended its tentacles over city and river, gradually obliterating traces of familiar landscapes. At five-thirty the old Panhandle bridge, supported by massive sandstone pillars, stalwart, as when erected fifty years before to serve a generation now passed behind the portals of life, had become a spectral outline against the sky.",
     "prompt": "As used in the text, what does the word “supported” most nearly mean?",
-    "options": ["Improved on", "Defended", "Held up", "Cherished"],
-    "answer": "Held up"
+    "options": [
+      "Improved on",
+      "Defended",
+      "Held up",
+      "Cherished"
+    ],
+    "answer": "Held up",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “Improved on”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “Defended”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “Held up”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: idea, concept, notion",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “Cherished”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Although the government of the Soviet Union attempted to _____ Georgi Vladimov’s novel Faithful Ruslan, copies of the book circulated in secret among readers in several parts of the country.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["critique", "replicate", "import", "suppress"],
-    "answer": "suppress"
+    "options": [
+      "critique",
+      "replicate",
+      "import",
+      "suppress"
+    ],
+    "answer": "suppress",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “critique”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “replicate”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “import”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “suppress”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Although the clustering of cutlery manufacturing firms in Sheffield, UK, is often cited as typical of industrial agglomeration, Giulia Faggio et al. use UK data to show that the mix of factors driving the phenomenon is _____ across industries: while access to specialized suppliers can prompt agglomeration, collocation among animal feed manufacturers occurs for different reasons.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["heterogeneous", "imperative", "credible", "decisive"],
-    "answer": "heterogeneous"
+    "options": [
+      "heterogeneous",
+      "imperative",
+      "credible",
+      "decisive"
+    ],
+    "answer": "heterogeneous",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “heterogeneous”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “imperative”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “credible”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “decisive”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Many readers both young and old enjoyed and _____ Grace Lin’s book Where the Mountain Meets the Moon, so it was not a surprise when the Association for Library Service to Children named it a Newbery Honor Book in 2010.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["praised", "rejected", "created", "ignored"],
-    "answer": "praised"
+    "options": [
+      "praised",
+      "rejected",
+      "created",
+      "ignored"
+    ],
+    "answer": "praised",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “praised”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “rejected”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “created”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “ignored”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "One challenge of generating electricity from ocean waves is that wave power isn’t _____: it varies in unpredictable ways that pose technological and planning problems for electricity generation.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["accidental", "expensive", "confident", "consistent"],
-    "answer": "consistent"
+    "options": [
+      "accidental",
+      "expensive",
+      "confident",
+      "consistent"
+    ],
+    "answer": "consistent",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “accidental”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “expensive”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “confident”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “consistent”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Radar and sonar can detect objects or people through walls, but they are too costly for consumer use. Researchers Fadel Adib and Dina Katabi have shown, however, that there may be a comparatively _____ alternative: small changes to the Wi-Fi technology used in smartphones can give users a cheap way to count people or even identify their gestures through walls.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["impractical", "infrequent", "unmistakable", "inexpensive"],
-    "answer": "inexpensive"
+    "options": [
+      "impractical",
+      "infrequent",
+      "unmistakable",
+      "inexpensive"
+    ],
+    "answer": "inexpensive",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “impractical”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “infrequent”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: không thể nhầm lẫn\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: distinct, clear, evident",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “inexpensive”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "City planners need accurate maps of their city’s sidewalks to properly maintain them, but mapping manually is slow. Maryam Hosseini and her team addressed this by training a computer program to identify sidewalks in aerial images of Manhattan. When they used the program on aerial images of Philadelphia, it accurately _____ sidewalks and could even distinguish between brick and asphalt.",
     "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
-    "options": ["neglected", "approved", "mistook", "detected"],
-    "answer": "detected"
+    "options": [
+      "neglected",
+      "approved",
+      "mistook",
+      "detected"
+    ],
+    "answer": "detected",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: tạm dịch: “neglected”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “approved”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “mistook”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “detected”\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: perform, carry out, execute"
+    }
   },
   {
     "category": "Word in Context - Part 1",
     "context": "Gogol is an elementary school student in Massachusetts. In art class, his favorite hour of the week, he carves his name with paper clips into the bottoms of clay cups and bowls. He pastes uncooked pasta to cardboard, and leaves his signature in fat brush strokes below paintings.",
     "prompt": "As used in the text, what does the word “leaves” most nearly mean?",
-    "options": ["Writes", "Passes", "Transforms", "Allows"],
-    "answer": "Writes"
+    "options": [
+      "Writes",
+      "Passes",
+      "Transforms",
+      "Allows"
+    ],
+    "answer": "Writes",
+    "explanations": {
+      "A": "Nghĩa tiếng Việt: viết; ghi lại\nTừ này phù hợp vì: khớp chính xác với ý nghĩa và logic của câu.\nTừ đồng nghĩa có thể gặp trong SAT: composes, records, notes",
+      "B": "Nghĩa tiếng Việt: tạm dịch: “Passes”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "C": "Nghĩa tiếng Việt: tạm dịch: “Transforms”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked",
+      "D": "Nghĩa tiếng Việt: tạm dịch: “Allows”\nTừ này không phù hợp vì: lệch nghĩa hoặc mâu thuẫn với ý muốn diễn đạt.\nTừ đồng nghĩa có thể gặp trong SAT: significant, notable, marked"
+    }
   }
 ]

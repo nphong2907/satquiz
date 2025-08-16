@@ -3,25 +3,26 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Quiz luyện tập theo chủ đề</title>
+  <title>QUIZ SAT REVIEW</title>
   <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
 </head>
 <body>
   <div class="container">
+
+    <!-- Header -->
     <header>
       <div class="brand">
         <div class="logo" aria-hidden="true"></div>
-        <h1>Quiz luyện tập theo chủ đề</h1>
+        <h1>Review SAT</h1>
       </div>
       <div class="controls">
         <span id="userChip" class="userchip" title="Người dùng hiện tại">👤 Khách</span>
         <button id="switchUserBtn" class="btn ghost small" title="Đổi người dùng">Đổi</button>
 
         <button id="homeBtn" class="btn ghost small">Trang chủ</button>
-        <label class="btn file-label small">
-          <input id="fileInput" type="file" accept=".csv,.json" />
-          + Import
-        </label>
+        <!-- Nút Tìm thay Import -->
+        <button id="toggleSearchBtn" class="btn ghost small">🔎 Tìm</button>
         <button id="restartBtn" class="btn primary small" disabled>Bắt đầu/Làm lại</button>
       </div>
     </header>
@@ -29,7 +30,21 @@
     <!-- Màn chọn danh mục -->
     <section id="categoryScreen" class="card">
       <div class="card-body">
-        <h2>Chọn danh mục</h2>
+        <div class="row-between">
+          <h2>Chọn danh mục</h2>
+          <!-- có thể để trống bên phải -->
+        </div>
+
+        <!-- KHỐI TÌM KIẾM: ẩn mặc định, bấm "Tìm" để hiện -->
+        <div id="searchContainer" class="search-container hidden">
+          <div class="search-bar">
+            <input id="searchInput" type="text" placeholder="Tìm theo từ khóa... (ví dụ: fusion, mosque, Persian)" />
+            <button id="searchBtn" class="btn small">Tìm</button>
+            <button id="searchClear" class="btn ghost small">Xóa</button>
+          </div>
+          <div id="searchResults" class="search-results hidden"></div>
+        </div>
+
         <div id="categoryList" class="category-grid"></div>
       </div>
     </section>
@@ -37,21 +52,28 @@
     <!-- Màn làm bài -->
     <section id="quizCard" class="card hidden">
       <div class="card-body">
-        <div class="topline">
+        <div class="topline row-between">
           <div id="crumbs" class="crumbs"></div>
-          <div id="qIndex" class="q-index">1/1</div>
+          <div class="row" style="gap:10px; align-items:center;">
+            <div id="qIndex" class="q-index">1/1</div>
+            <!-- Nút đóng khi mở từ Tìm kiếm -->
+            <button id="closeInlineBtn" class="btn ghost small close-inline hidden" title="Đóng câu hỏi">Đóng ×</button>
+          </div>
         </div>
+
         <div id="contextBox" class="context"></div>
         <div id="promptBox" class="prompt"></div>
 
         <div class="answers" id="answers"></div>
+        <!-- Box giải thích đáp án -->
+<div id="explainBox" class="explain hidden" aria-live="polite"></div>
         <div id="feedback" class="feedback"></div>
 
         <div class="navrow">
           <button id="exitBtn" class="btn ghost">⇤ Thoát</button>
           <div class="spacer"></div>
-          <button id="prevBtn" class="btn nav" disabled>← Trước</button>
-          <button id="nextBtn" class="btn nav">Sau →</button>
+          <button id="prevBtn" class="btn nav" disabled>← Coi lại</button>
+          <button id="nextBtn" class="btn nav">Tiếp →</button>
         </div>
       </div>
 
@@ -83,8 +105,37 @@
       <div class="modal-buttons">
         <button id="modalContinue" class="btn primary">Tiếp tục</button>
         <button id="modalReview"   class="btn">Review</button>
-        <button id="modalReset"    class="btn danger">Làm lại (xóa tiến độ)</button>
+        <button id="modalReset"    class="btn danger">Làm lại</button>
         <button id="modalCancel"   class="btn ghost">Hủy</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal đổi người dùng (duy nhất) -->
+  <div id="userOverlay" class="modal-overlay hidden">
+    <div id="userModal" class="modal hidden modal-compact" role="dialog" aria-modal="true" aria-labelledby="userTitle">
+      <button id="userClose" class="modal-close" aria-label="Đóng">×</button>
+      <h3 id="userTitle">Đổi người dùng</h3>
+      <label for="userInput" class="modal-label">Nhập tên người dùng:</label>
+      <input id="userInput" class="modal-input" type="text" placeholder="Ví dụ: Na, Huy..." />
+      <div class="modal-buttons row">
+        <button id="userSave" class="btn primary">Lưu</button>
+        <button id="userCancel" class="btn ghost">Hủy</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal mật mã truy cập -->
+  <div id="gateOverlay" class="modal-overlay hidden">
+    <div id="gateModal" class="modal hidden modal-compact" role="dialog" aria-modal="true" aria-labelledby="gateTitle">
+      <button id="gateClose" class="modal-close" aria-label="Đóng">×</button>
+      <h3 id="gateTitle">Mật khẩu là j?</h3>
+      <label for="gateInput" class="modal-label">Nhập mật mã để vào web:</label>
+      <input id="gateInput" class="modal-input" type="password" placeholder="••••••••••" />
+      <p id="gateError" class="modal-error hidden">Sai bét, nhập lại nếu biết, ko thì out</p>
+      <div class="modal-buttons row">
+        <button id="gateEnter" class="btn primary">Vào</button>
+        <button id="gateCancel" class="btn ghost">Hủy</button>
       </div>
     </div>
   </div>
