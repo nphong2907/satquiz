@@ -57,6 +57,7 @@
   const modalCancel    = document.getElementById('modalCancel');
   const modalClose     = document.getElementById('modalClose');
   const explainBox = document.getElementById('explainBox');
+  
 
 
   // Force hide modal on load
@@ -648,6 +649,31 @@ explainBox.classList.remove('hidden');
       alert('Chọn danh mục để bắt đầu.');
     }
   });
+explainBtn.addEventListener('click', ()=>{
+  const q = currentSet[idx] || {};
+  // Ưu tiên các trường phổ biến trong dataset
+  const exp = q.explanation || q.explain || q.reason || '';
+  if(exp && exp.trim()){
+    explainBox.innerHTML = `<p>${escapeHTML(exp)}</p>`;
+    explainBox.classList.remove('hidden');
+    return;
+  }
+  // Fallback auto: hiện đáp án đúng và 1 dòng gợi ý dựa trên type câu hỏi
+  const correctIndex = normalizeCorrect(q.correct);
+  const letters = ['A','B','C','D'];
+  const correctLetter = letters[correctIndex] || '?';
+  const correctText = (q.options && q.options[correctIndex]) ? `“${q.options[correctIndex]}”` : '';
+  const isVocabFill = /Which choice completes the text/i.test(q.question || '');
+  const isMeaning = /As used in the text, what does/i.test(q.question || '');
+  let hint = 'Đáp án đúng là ' + correctLetter + (correctText?` ${correctText}`:'') + '.';
+  if(isVocabFill){
+    hint += ' Lựa chọn khớp ngữ cảnh và sắc thái nghĩa tự nhiên nhất trong câu.';
+  } else if(isMeaning){
+    hint += ' Nghĩa cần lấy theo ngữ cảnh đoạn trích, không phải nghĩa từ điển chung.';
+  }
+  explainBox.innerHTML = `<p>${escapeHTML(hint)}</p>`;
+  explainBox.classList.remove('hidden');
+});
 
   // Search events
   searchBtn?.addEventListener('click', performSearch);
@@ -663,37 +689,35 @@ explainBox.classList.remove('hidden');
     searchContainer && searchContainer.classList.remove('hidden');
   });
 
-  // Shortcuts
-  // Thay handler keydown cũ bằng đoạn này
-// GỠ bỏ handler cũ rồi dán đoạn này
+  // === REPLACE your old keydown handler with this ===
 document.addEventListener('keydown', (ev) => {
-  // Bỏ qua khi đang gõ ở input/textarea/contenteditable
+  // Bỏ qua khi đang gõ trong input/textarea/contenteditable
   const ae = document.activeElement;
   const tag = ae && ae.tagName ? ae.tagName.toLowerCase() : '';
-  const isTyping = tag === 'input' || tag === 'textarea' || (ae && ae.isContentEditable);
-  if (isTyping) return;
+  if (tag === 'input' || tag === 'textarea' || (ae && ae.isContentEditable)) return;
 
-  // Guard: có trình duyệt/IME bắn event không có key
+  // Guard: một số event có thể không có key hoặc không phải string
   const k = (ev && typeof ev.key === 'string') ? ev.key : '';
   if (!k) return;
 
   const inQuiz = !quizCard.classList.contains('hidden');
   const upper  = (k.length === 1) ? k.toUpperCase() : k;
 
-  // A/B/C/D để chọn hoặc xem giải thích
+  // Chọn đáp án A/B/C/D
   if (inQuiz && ['A','B','C','D'].includes(upper)) {
     const map = { A:0, B:1, C:2, D:3 };
     const i = map[upper];
+
     const q = currentSet[idx];
     const correctIndex = (typeof q.correct === 'number')
       ? clamp(q.correct, 0, 3)
       : normalizeCorrect(q.correct, q.options || []);
 
     if (!answered.has(idx)) {
-      const btn = answersWrap.querySelector(`[data-index="${i}"]`);
-      btn && btn.click(); // chấm lần đầu
+      // chấm lần đầu
+      answersWrap.querySelector(`[data-index="${i}"]`)?.click();
     } else {
-      // đã chấm -> chỉ xem giải thích cho đáp án vừa bấm
+      // đã chấm -> chỉ xem giải thích
       renderExplanation(q, i, correctIndex, 'preview');
     }
     return;
