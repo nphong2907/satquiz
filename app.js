@@ -665,28 +665,46 @@ explainBox.classList.remove('hidden');
 
   // Shortcuts
   // Thay handler keydown cũ bằng đoạn này
+// GỠ bỏ handler cũ rồi dán đoạn này
 document.addEventListener('keydown', (ev) => {
-  // key có thể undefined/null ở một số trường hợp => guard
-  const key = (typeof ev.key === 'string') ? ev.key : '';
-  if (!key) return;
+  // Bỏ qua khi đang gõ ở input/textarea/contenteditable
+  const ae = document.activeElement;
+  const tag = ae && ae.tagName ? ae.tagName.toLowerCase() : '';
+  const isTyping = tag === 'input' || tag === 'textarea' || (ae && ae.isContentEditable);
+  if (isTyping) return;
+
+  // Guard: có trình duyệt/IME bắn event không có key
+  const k = (ev && typeof ev.key === 'string') ? ev.key : '';
+  if (!k) return;
 
   const inQuiz = !quizCard.classList.contains('hidden');
-  const upper  = (key.length === 1) ? key.toUpperCase() : key;
+  const upper  = (k.length === 1) ? k.toUpperCase() : k;
 
-  // Chọn đáp án bằng phím A/B/C/D (chỉ khi đang làm, không phải review)
-  if (inQuiz && !locked && !reviewMode && ['A','B','C','D'].includes(upper)) {
+  // A/B/C/D để chọn hoặc xem giải thích
+  if (inQuiz && ['A','B','C','D'].includes(upper)) {
     const map = { A:0, B:1, C:2, D:3 };
     const i = map[upper];
-    const btn = answersWrap.querySelector(`[data-index="${i}"]`);
-    if (btn) btn.click();
+    const q = currentSet[idx];
+    const correctIndex = (typeof q.correct === 'number')
+      ? clamp(q.correct, 0, 3)
+      : normalizeCorrect(q.correct, q.options || []);
+
+    if (!answered.has(idx)) {
+      const btn = answersWrap.querySelector(`[data-index="${i}"]`);
+      btn && btn.click(); // chấm lần đầu
+    } else {
+      // đã chấm -> chỉ xem giải thích cho đáp án vừa bấm
+      renderExplanation(q, i, correctIndex, 'preview');
+    }
     return;
   }
 
   // Điều hướng
-  if (inQuiz && key === 'ArrowLeft')  { prevBtn?.click();  return; }
-  if (inQuiz && key === 'ArrowRight') { nextBtn?.click();  return; }
-  if (inQuiz && key === 'Escape')     { exitBtn?.click();  return; }
+  if (inQuiz && k === 'ArrowLeft')  { prevBtn?.click();  return; }
+  if (inQuiz && k === 'ArrowRight') { nextBtn?.click();  return; }
+  if (inQuiz && k === 'Escape')     { exitBtn?.click();  return; }
 });
+
 
 
   // ---------- INIT ----------
